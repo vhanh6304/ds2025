@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyen Tuan Dung
-* Student ID: 22BI13107
-* Student Group ID: Not-for-now
+* Student Name: Vu Hung Anh
+* Student ID: 22BI13045
+* Student Group ID: waiting
